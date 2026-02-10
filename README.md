@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eugene Shatsala</h1>
-<h3 align="center">A passionate full-stack developer from Nairobi,Kenya</h3>
+<h3 align="center">I am aspiring to be a passionate full-stack developer</h3>
 
 
 <p align="left"> <a href="https://twitter.com/prolific" target="blank"><img src="https://img.shields.io/twitter/follow/monrilla_332?logo=twitter&style=for-the-badge" alt="prolific" /></a> </p>
