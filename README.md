@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lennx-gif" alt="lennx-gif" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/prolific" target="blank"><img src="https://img.shields.io/twitter/follow/@monrilla_332?logo=twitter&style=for-the-badge" alt="prolific" /></a> </p>
+<p align="left"> <a href="https://twitter.com/prolific" target="blank"><img src="https://img.shields.io/twitter/follow/monrilla_332?logo=twitter&style=for-the-badge" alt="prolific" /></a> </p>
 
 - 🔭 I’m currently working on **Call Screener**
 
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/@monrilla_332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prolific" height="30" width="40" /></a>
 <a href="https://instagram.com/@lenny_7o7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lenny_7o7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lennx-gif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lennx-gif" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/lennx-gif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lennx-gif" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/00000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="00000" height="30" width="40" /></a>
 </p>
 
