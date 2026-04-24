@@ -31,7 +31,4 @@
 <img src='https://github-readme-stats.vercel.app/api?username=lennx-gif&show_icons=true&theme=radical' alt='lennx-gif' />
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=lennx-gif&theme=radical' alt='lennx-gif' />
 </p>
-<h3 align='left'>LeetCode Stats:</h3>
-<p align='center'>
-<img src='https://leetcode-stats-api.herokuapp.com/lennx-gif/?theme=dark' alt='lennx-gif' />
-</p>
+
