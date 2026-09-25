@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://twitter.com/zyga_732" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/monrilla_332?logo=twitter&style=for-the-badge" alt="Follow on Twitter" />
+    <img src="https://img.shields.io/twitter/follow/zyga_732?logo=twitter&style=for-the-badge" alt="Follow on Twitter" />
   </a>
 </p>
 
